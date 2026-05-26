@@ -31,12 +31,12 @@ Este repositorio contiene una pagina web sencilla hecha con HTML y CSS para el p
 
 ## URL del repositorio
 
-Agrega aqui tu liga del repositorio:
+Liga del repositorio:
 
-https://github.com/TU_USUARIO/TU_REPOSITORIO
+https://github.com/WiGoGamings/Proyecto-final-1
 
 ## URL publica de GitHub Pages
 
-Agrega aqui la URL publica de tu sitio:
+URL publica del sitio:
 
-https://TU_USUARIO.github.io/TU_REPOSITORIO/
+https://wigogamings.github.io/Proyecto-final-1/
